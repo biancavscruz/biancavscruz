@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Me chamo Bianca Vitória, amo a área de tecnologia, resolução de problemas e criação de projetos que realmente tragam evolução social.<br>Adoro aprender novos assuntos e entrar em novas perspectivas, aprofundando meus estudos em programação e diversos outros assuntos.<br>Possuo um profundo interesse tanto em TI quanto em áreas como psicologia, filosofia e comportamento humano, faço questão de trazer essa sensibilidade para tudo o que eu crio.</p>
+<p align="left">Me chamo Bianca Vitória, amo a área de tecnologia, resolução de problemas e criação de projetos que realmente tragam evolução social. Adoro aprender novos assuntos e entrar em novas perspectivas, aprofundando meus estudos em programação e diversos outros assuntos.<br>Possuo um profundo interesse tanto em TI quanto em áreas como psicologia, filosofia e comportamento humano, faço questão de trazer essa sensibilidade para tudo o que eu crio.</p>
 
 ###
 
